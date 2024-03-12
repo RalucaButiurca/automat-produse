@@ -1,0 +1,21 @@
+# ninja log v5
+2	261	7075856701421443	build.ninja	dfbdb9b084b7ff59
+1	679	7062906904679536	CMakeFiles/lab12.dir/produs.cpp.obj	4e453fa0dd60189e
+11	711	7071462947741171	CMakeFiles/lab12.dir/Colectie.cpp.obj	6bb20569fbd9466
+4	779	7071462948405066	CMakeFiles/lab12.dir/main.cpp.obj	343ded949866c70b
+18	722	7071462947861149	CMakeFiles/lab12.dir/service.cpp.obj	b889df4318a2459d
+11	741	7063715036606950	CMakeFiles/lab12.dir/Repo.cpp.obj	bcb0a6ac2eb6c4b8
+24	841	7071462949012126	CMakeFiles/lab12.dir/teste.cpp.obj	d1a3959037a90d77
+4	561	7063745338098510	CMakeFiles/lab12.dir/FileRepo.cpp.obj	25300c9ca9378963
+30	796	7071462948559948	CMakeFiles/lab12.dir/UI.cpp.obj	67938e2ce697e516
+841	1012	7071462950685301	lab12.exe	fe05f4379ed9febe
+2	308	7075856701421443	build.ninja	dfbdb9b084b7ff59
+11	883	7075856711226888	CMakeFiles/lab12.dir/produs.cpp.obj	4e453fa0dd60189e
+0	1048	7075856712562289	CMakeFiles/lab12.dir/Colectie.cpp.obj	6bb20569fbd9466
+17	1065	7075856712882301	CMakeFiles/lab12.dir/main.cpp.obj	343ded949866c70b
+23	1075	7075856713002288	CMakeFiles/lab12.dir/Repo.cpp.obj	bcb0a6ac2eb6c4b8
+34	1085	7075856713012278	CMakeFiles/lab12.dir/UI.cpp.obj	67938e2ce697e516
+6	1100	7075856713287692	CMakeFiles/lab12.dir/FileRepo.cpp.obj	25300c9ca9378963
+884	1586	7075856718263104	CMakeFiles/lab12.dir/service.cpp.obj	b889df4318a2459d
+1049	1778	7075856720191550	CMakeFiles/lab12.dir/teste.cpp.obj	d1a3959037a90d77
+1779	2021	7075856722572602	lab12.exe	fe05f4379ed9febe
